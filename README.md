@@ -1,6 +1,7 @@
 # Madhav-Ecommerce-Sales-Dashboard
 
 Topics covered in this Power BI Project:
+
 ✅ How to use Power BI: Familiarize yourself with the Power BI interface and its various components. Gain confidence in navigating through the intuitive features and functionalities of Power BI Desktop.
 
 ✅ Import data in Power BI: Unlock the magic of data importing in Power BI. We'll guide you through the process of importing data from diverse sources like Excel, CSV files, databases, and more, ensuring your data is primed for analysis.
